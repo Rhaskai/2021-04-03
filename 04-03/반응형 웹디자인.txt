@@ -1,0 +1,16 @@
+@media(max-width:800px) {
+        div{
+          display:none;
+        }
+      }
+
+800px까지는
+div의 display를 none로 지정
+
+@media(min-width:801px) {
+       div{
+          display:none;
+       }
+     }
+
+801px부터 div의 display를 none로 지정
